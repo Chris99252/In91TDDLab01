@@ -12,8 +12,14 @@ namespace Calculator.Tests
     public class MyCalculatorTests
     {
         [TestMethod()]
-        public void AddTest()
+        public void AddTest_first_1_second_2_should_be_3()
         {
+            //// Arrage
+
+            //// Act
+
+            //// Assert
+
             Assert.Fail();
         }
     }
